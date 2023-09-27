@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../public/black_man_3d.jpg';
+import logo from './assets/images/black_man_3d.jpg';
 import './App.css';
 
 const App = () => {
